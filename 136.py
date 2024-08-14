@@ -7,6 +7,5 @@ def singleNumber(nums):
             return el
     
 
-
-
 print(singleNumber([1, 1, 2, 3, 3, 4, 4]))
+
