@@ -20,6 +20,7 @@ def lengthOfLastWord2(s):
     """
     return len(s.split()[-1])
 
+
 print(lengthOfLastWord("hello hello  "))
 print(lengthOfLastWord2("hello hello "))
         
